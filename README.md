@@ -1,1 +1,1 @@
-# Chess System
+# Projeto Sistema de Jogo de Xadrez
